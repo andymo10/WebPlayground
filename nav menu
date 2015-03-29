@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nav Menu</title>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a>Home</a></li>
+      <li><a>Contact</a></li>
+      <li><a>Github</a></li>
+      <li><a>linkedin</a></li>
+    </ul>
+  </nav>
+</body>
+</html>
